@@ -3,5 +3,4 @@
   version: 1.1.4
   api: ['3.0.0-ALPHA7']
   load: POSTWORLD
-  authors: [XenialDan]
-  depend: BossBarAPI
+  author: [XenialDan]
