@@ -4,7 +4,4 @@ branches:
 projects:
   BossAnnouncement:
     path: ""
-    libs:
-      - src: XenialDan/BossBarAPI/bossbarapi
-        version: 5.0.0
 ...
